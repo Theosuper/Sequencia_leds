@@ -28,4 +28,17 @@ void loop() {
  delay(100);
  digitalWrite(5,LOW);
  delay(200);
+ // tarefa
+ digitalWrite(4,HIGH);
+ delay(100);
+ digitalWrite(4,LOW);
+ delay(200);
+ digitalWrite(3,HIGH);
+ delay(100);
+ digitalWrite(3,LOW);
+ delay(200);
+ digitalWrite(2,HIGH);
+ delay(100);
+ digitalWrite(2,LOW);
+ delay(200);
 }
